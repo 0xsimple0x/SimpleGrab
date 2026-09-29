@@ -125,4 +125,12 @@ For defenders running this in their own environment:
 
 For use on machines you own or systems you have explicit written permission to test. No exceptions, no grey areas.
 
-The author carries no responsibility for use outside research and authorised testing. If you're here because you want to understand how credential theft actually works so you can close those gaps — that's exactly who this is for.
+The author carries no responsibility for use outside research and authorised testing. If you're here because you want to understand how credential theft actually works so you can close those gaps — that's exactly who this is for
+
+---
+
+## Contact
+
+For private builds, custom modules, or consulting inquiries:
+
+Telegram: [@simpleman0x](https://t.me/simpleman0x)
